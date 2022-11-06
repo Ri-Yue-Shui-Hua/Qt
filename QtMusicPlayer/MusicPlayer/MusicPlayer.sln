@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MusicPlayer", "MusicPlayer.vcxproj", "{B4DFD59E-CF62-45E3-81FA-F81A08111BAF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Music_Player", "..\..\Music_Player\Music_Player.vcxproj", "{7E495C5D-0C39-4080-B4DF-51125347E833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4DFD59E-CF62-45E3-81FA-F81A08111BAF}.Debug|x64.ActiveCfg = Debug|x64
+		{B4DFD59E-CF62-45E3-81FA-F81A08111BAF}.Debug|x64.Build.0 = Debug|x64
+		{B4DFD59E-CF62-45E3-81FA-F81A08111BAF}.Release|x64.ActiveCfg = Release|x64
+		{B4DFD59E-CF62-45E3-81FA-F81A08111BAF}.Release|x64.Build.0 = Release|x64
+		{7E495C5D-0C39-4080-B4DF-51125347E833}.Debug|x64.ActiveCfg = Debug|x64
+		{7E495C5D-0C39-4080-B4DF-51125347E833}.Debug|x64.Build.0 = Debug|x64
+		{7E495C5D-0C39-4080-B4DF-51125347E833}.Release|x64.ActiveCfg = Release|x64
+		{7E495C5D-0C39-4080-B4DF-51125347E833}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F61D5DF-6B31-4C99-BA18-B74993D62838}
+	EndGlobalSection
+EndGlobal
